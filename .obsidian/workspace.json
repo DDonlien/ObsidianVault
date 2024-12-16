@@ -1,0 +1,237 @@
+{
+  "main": {
+    "id": "4dec962a3002d619",
+    "type": "split",
+    "children": [
+      {
+        "id": "b6f786708506f7f6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "15239e55f1bf15b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "跃入迷城/武器/野望 · 若火.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "野望 · 若火"
+            }
+          },
+          {
+            "id": "765f1f31eaf4ab8f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "跃入迷城/武器/野望 · 若火.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "野望 · 若火"
+            }
+          },
+          {
+            "id": "4c2f0d7d8084258a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "跃入迷城/技能/居合斩.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "居合斩"
+            }
+          },
+          {
+            "id": "e94e3b14f2e3254d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "跃入迷城/武器/野望 · 若火.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "野望 · 若火"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8fa3ec390cfaec9b",
+    "type": "split",
+    "children": [
+      {
+        "id": "d13837baec1c54fa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ac131cef62963c98",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "a11e591afee998c9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "48c63909c6c01f02",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b7c807921f6b7bb3",
+    "type": "split",
+    "children": [
+      {
+        "id": "2a2da756c5a510d0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "688cd7ac3ea74401",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "087b82b777f238b7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "06f1d85e08133a89",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "1e9c1dc0bfd5a808",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "ac131cef62963c98",
+  "lastOpenFiles": [
+    "跃入迷城/武器/野望 · 若火.md",
+    "跃入迷城/技能/居合斩.md",
+    "跃入迷城/状态 (BUFF & DEBUFF)/冲压.md",
+    "跃入迷城/状态 (BUFF & DEBUFF)/重伤.md",
+    "跃入迷城/状态 (BUFF & DEBUFF)/灼烧.md",
+    "跃入迷城/状态 (BUFF & DEBUFF)/霜冻.md",
+    "未命名",
+    "跃入迷城/状态 (BUFF & DEBUFF)/辐射.md",
+    "跃入迷城/状态 (BUFF & DEBUFF)/流血.md",
+    "跃入迷城/状态 (BUFF & DEBUFF)/麻痹.md",
+    "跃入迷城/状态 (BUFF & DEBUFF)/纳米.md",
+    "跃入迷城/状态 (BUFF & DEBUFF)/株连.md",
+    "跃入迷城/状态 (BUFF & DEBUFF)",
+    "跃入迷城/属性",
+    "跃入迷城/技能",
+    "跃入迷城/义体",
+    "跃入迷城/武器",
+    "未命名 1.canvas",
+    "跃入迷城",
+    "主题2.md",
+    "主题1.md",
+    "主题3.md",
+    "2024-12-14.md",
+    "未命名.canvas",
+    "Untitled"
+  ]
+}
