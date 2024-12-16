@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "跃入迷城/技能/居合斩.md",
+                "file": "跃入迷城/状态 (BUFF & DEBUFF)/株连.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "居合斩"
+              "title": "株连"
             }
           },
           {
@@ -206,17 +206,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ac131cef62963c98",
+  "active": "4c2f0d7d8084258a",
   "lastOpenFiles": [
-    "跃入迷城/武器/野望 · 若火.md",
-    "跃入迷城/技能/居合斩.md",
-    "跃入迷城/状态 (BUFF & DEBUFF)/冲压.md",
-    "跃入迷城/状态 (BUFF & DEBUFF)/重伤.md",
     "跃入迷城/状态 (BUFF & DEBUFF)/灼烧.md",
+    "跃入迷城/状态 (BUFF & DEBUFF)/重伤.md",
+    "跃入迷城/状态 (BUFF & DEBUFF)/流血.md",
+    "跃入迷城/状态 (BUFF & DEBUFF)/冲压.md",
+    "跃入迷城/技能/居合斩.md",
+    "跃入迷城/武器/野望 · 若火.md",
     "跃入迷城/状态 (BUFF & DEBUFF)/霜冻.md",
     "未命名",
     "跃入迷城/状态 (BUFF & DEBUFF)/辐射.md",
-    "跃入迷城/状态 (BUFF & DEBUFF)/流血.md",
     "跃入迷城/状态 (BUFF & DEBUFF)/麻痹.md",
     "跃入迷城/状态 (BUFF & DEBUFF)/纳米.md",
     "跃入迷城/状态 (BUFF & DEBUFF)/株连.md",
