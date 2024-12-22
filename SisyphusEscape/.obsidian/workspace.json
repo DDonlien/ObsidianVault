@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "欢迎"
             }
+          },
+          {
+            "id": "2d2a8be743a4a32a",
+            "type": "leaf",
+            "state": {
+              "type": "mk-uri-view",
+              "state": {
+                "path": "https://www.make.md/static/latest.md"
+              },
+              "icon": "lucide-file",
+              "title": "https://www.make.md/static/latest.md"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "6aa5ac2529ad84e8",
@@ -88,8 +101,19 @@
               "icon": "lucide-bookmark",
               "title": "书签"
             }
+          },
+          {
+            "id": "504bd6bb82004f39",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Spaces"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -175,11 +199,13 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "40d47e5278d6d021",
+  "active": "2d2a8be743a4a32a",
   "lastOpenFiles": [
+    "Tags",
     "欢迎.md"
   ]
 }
