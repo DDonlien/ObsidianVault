@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名.md",
+                "file": "Github Token.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "Github Token"
             }
           },
           {
@@ -206,9 +206,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4c2f0d7d8084258a",
+  "active": "ac131cef62963c98",
   "lastOpenFiles": [
+    "SisyphusEscape/Tags",
+    "MistCastle/Tags",
     "未命名.md",
+    "DiveUp/Tags",
+    "Github Token.md",
     "DiveUp/流放之路2.md",
     "DiveUp/参考/流放之路2.md",
     "DiveUp/参考",
@@ -239,12 +243,8 @@
     "未命名",
     "DiveUp/跃入迷城/状态 (BUFF & DEBUFF)/麻痹.md",
     "跃入迷城/状态 (BUFF & DEBUFF)/纳米.md",
-    "DiveUp/跃入迷城/状态 (BUFF & DEBUFF)",
-    "DiveUp/跃入迷城/属性",
     "未命名 1.canvas",
     "主题2.md",
-    "主题1.md",
-    "主题3.md",
     "未命名.canvas"
   ]
 }

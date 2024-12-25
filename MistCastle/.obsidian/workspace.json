@@ -11,14 +11,12 @@
             "id": "253768eed5bd3dba",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "设定/世界/旧世界.md",
-                "mode": "source",
-                "source": false
+                "path": "/"
               },
               "icon": "lucide-file",
-              "title": "旧世界"
+              "title": "MistCastle"
             }
           }
         ]
@@ -174,9 +172,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "253768eed5bd3dba",
+  "active": "0533a2d5c9a56e51",
   "lastOpenFiles": [
     "设定/世界/旧世界.md",
+    "Tags",
     "设定/身份/雾魔.md",
     "设定/身份/护火人.md",
     "设定/身份/雾化人.md",
@@ -203,8 +202,6 @@
     "设定/事物/魔法器械.md",
     "设定/事物/雾灯.md",
     "设定/事物/炉火.md",
-    "设定/事物/迷雾城堡.md",
-    "Tags",
     "剧情",
     "设定/文件",
     "设定/事物",
