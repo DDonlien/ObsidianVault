@@ -48,6 +48,21 @@
             }
           },
           {
+            "id": "dd4b5423e49129d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BallMaze/Vault.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Vault"
+            }
+          },
+          {
             "id": "e94e3b14f2e3254d",
             "type": "leaf",
             "state": {
@@ -63,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -201,8 +216,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4c2f0d7d8084258a",
+  "active": "ac131cef62963c98",
   "lastOpenFiles": [
+    "Github Token.md",
     "SisyphusEscape/欢迎.md",
     "SisyphusEscape",
     "MistCastle/设定/阵营/魔法师协会.md",
@@ -229,7 +245,6 @@
     "MistCastle/设定/事物/炉火.md",
     "MistCastle/设定/事物/灵魂.md",
     "MistCastle/设定/事物/原生魔法.md",
-    "MistCastle/设定/事物/人造魔法.md",
     "MistCastle/设定/阵营",
     "MistCastle/设定/身份",
     "MistCastle/设定/角色",
