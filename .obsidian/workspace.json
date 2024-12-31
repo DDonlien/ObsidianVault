@@ -46,7 +46,7 @@
                 "path": "自媒体内容"
               },
               "icon": "lucide-file",
-              "title": "自媒体内容"
+              "title": "插件不再活动"
             }
           },
           {
@@ -143,7 +143,7 @@
             }
           },
           {
-            "id": "9e19c0e8f8245a75",
+            "id": "fbe4d8dbcecd7b48",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -229,8 +229,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-file",
+              "title": "插件不再活动"
             }
           },
           {
@@ -252,9 +252,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false,
-      "obsidian-git:Open Git source control": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -262,11 +259,13 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "markdown-importer:打开 Markdown 格式转换器": false,
-      "zk-prefixer:创建时间戳笔记": false
+      "zk-prefixer:创建时间戳笔记": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "40a7c79652e29274",
   "lastOpenFiles": [
+    "Tags",
     "Excalidraw/Drawing 2024-12-31 14.25.51.excalidraw.md",
     "Excalidraw",
     "知识库/公司/Black Isle.md",
@@ -297,11 +296,9 @@
     "娱乐记录/电幻国度/书籍.md",
     "娱乐记录/电幻国度",
     "模板/娱乐记录.md",
-    "模板/未命名.md",
     "模板",
     "娱乐记录/小说",
     "文字创作",
-    "Tags",
     "知识库",
     "未命名.canvas",
     "未命名 1.canvas"
