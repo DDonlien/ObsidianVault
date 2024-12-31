@@ -35,7 +35,6 @@
   "showRibbon": true,
   "deleteFileOption": "trash",
   "expandedSpaces": [
-    "/",
     "//BallMaze/BallMaze/球",
     "//DiveUp/DiveUp/Tags",
     "//DiveUp/DiveUp/跃入迷城",
@@ -45,14 +44,14 @@
     "//娱乐记录/娱乐记录/书籍",
     "//娱乐记录/娱乐记录/游戏",
     "//娱乐记录",
-    "//模板",
     "//娱乐记录/娱乐记录/电幻国度",
-    "//知识库",
     "//知识库/知识库/公司",
     "//知识库/知识库/创作者",
-    "//MistCastle",
     "//MistCastle/MistCastle/Tags",
-    "//MistCastle/MistCastle/剧情"
+    "//MistCastle/MistCastle/剧情",
+    "/",
+    "//自媒体内容",
+    "//知识库"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
