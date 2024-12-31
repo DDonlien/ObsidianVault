@@ -1,3 +1,10 @@
 [
-  "obsidian-git"
+  "obsidian-git",
+  "contribution-graph",
+  "dataview",
+  "make-md",
+  "obsidian-tasks-plugin",
+  "calendar",
+  "templater-obsidian",
+  "obsidian-excalidraw-plugin"
 ]

@@ -30,7 +30,7 @@
                 "path": "跃入迷城/玩法/技能/武器"
               },
               "icon": "lucide-file",
-              "title": "武器"
+              "title": "插件不再活动"
             }
           }
         ]
@@ -100,8 +100,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "e9410fe163c88bbd",
