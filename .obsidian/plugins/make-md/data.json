@@ -51,7 +51,8 @@
     "//MistCastle/MistCastle/剧情",
     "/",
     "//自媒体内容",
-    "//知识库"
+    "//知识库",
+    "//模板"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
