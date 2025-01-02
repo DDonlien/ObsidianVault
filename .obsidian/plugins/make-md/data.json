@@ -51,10 +51,15 @@
     "//自媒体内容",
     "//娱乐记录",
     "//知识库",
-    "//模板",
     "//自媒体内容/自媒体内容/周报",
     "//自媒体内容/自媒体内容/视频选题",
-    "//娱乐记录/娱乐记录/游戏"
+    "//娱乐记录/娱乐记录/游戏",
+    "//BallMaze",
+    "//SisyphusEscape",
+    "//DiveUp",
+    "//MistCastle",
+    "//MistCastle/MistCastle/设定",
+    "//MistCastle/MistCastle/设定/MistCastle/设定/事件"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
