@@ -60,7 +60,11 @@
     "//MistCastle",
     "//MistCastle/MistCastle/设定",
     "//MistCastle/MistCastle/设定/MistCastle/设定/事件",
-    "//DiveUp/DiveUp/跃入迷城/DiveUp/跃入迷城/美术"
+    "//DiveUp/DiveUp/跃入迷城/DiveUp/跃入迷城/美术",
+    "//DiveUp/DiveUp/跃入迷城/DiveUp/跃入迷城/美术/DiveUp/跃入迷城/美术/VFX",
+    "//DiveUp/DiveUp/跃入迷城/DiveUp/跃入迷城/声音",
+    "//DiveUp/DiveUp/跃入迷城/DiveUp/跃入迷城/声音/DiveUp/跃入迷城/声音/SFX",
+    "//DiveUp/DiveUp/跃入迷城/DiveUp/跃入迷城/声音/DiveUp/跃入迷城/声音/SFX/DiveUp/跃入迷城/声音/SFX/武器"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
