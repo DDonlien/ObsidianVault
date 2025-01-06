@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DiveUp/跃入迷城/美术/VFX/需求.md",
+                "file": "DiveUp/跃入迷城/美术/VFX/风格.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "需求"
+              "title": "风格"
             }
           }
         ]
@@ -199,23 +199,25 @@
   },
   "active": "15239e55f1bf15b4",
   "lastOpenFiles": [
-    "1月3日.gif",
-    "1月3日(3).png",
-    "1月3日(4).png",
-    "1月3日(5).png",
-    "1月3日(6).png",
-    "1月3日(1).png",
     "DiveUp/跃入迷城/美术/VFX/需求.md",
+    "DiveUp/跃入迷城/美术/VFX/Image/1月3日.gif",
+    "DiveUp/跃入迷城/美术/VFX/Image/1月3日(1).png",
+    "DiveUp/跃入迷城/美术/VFX/Image/Image.md",
+    "DiveUp/跃入迷城/美术/VFX/Image",
+    "DiveUp/跃入迷城/美术/VFX/VFX.md",
+    "DiveUp/跃入迷城/美术/VFX/风格.md",
+    "DiveUp/跃入迷城/美术/VFX/Image/1月3日(6).png",
+    "DiveUp/跃入迷城/美术/VFX/边界定义.md",
+    "DiveUp/跃入迷城/美术/VFX/Image/1月3日(3).png",
+    "DiveUp/跃入迷城/美术/VFX/Image/1月3日(4).png",
+    "DiveUp/跃入迷城/美术/VFX/Image/1月3日(5).png",
     "娱乐记录/游戏/使命召唤21.md",
     "娱乐记录/游戏/上行战场.md",
-    "DiveUp/跃入迷城/美术/VFX/风格.md",
     "DiveUp/跃入迷城/美术/VFX/武器VFX需求.md",
-    "DiveUp/跃入迷城/美术/VFX/VFX.md",
     "娱乐记录/游戏/SUPERVIVE.md",
     "娱乐记录/游戏/LOL.md",
     "娱乐记录/娱乐记录.md",
     "娱乐记录/游戏/游戏.md",
-    "DiveUp/跃入迷城/美术/VFX/边界定义.md",
     "DiveUp/跃入迷城/声音/SFX/武器/武器.md",
     "DiveUp/跃入迷城/声音/SFX/武器",
     "DiveUp/跃入迷城/声音/SFX/SFX.md",
@@ -235,12 +237,10 @@
     "Excalidraw/Drawing 2025-01-02 17.46.16.excalidraw.md",
     "自媒体内容/周报/周报.md",
     "自媒体内容/视频选题/视频选题.md",
-    "自媒体内容/视频选题/沉没意志：我的2024年度剧情游戏.md",
     "Tags/#2",
     "Tags/#4",
     "Tags/#5",
     "自媒体内容/视频选题",
-    "自媒体内容/周报",
     "未命名 1.canvas"
   ]
 }
