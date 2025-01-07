@@ -11,7 +11,7 @@ titleStyle:
   fontWeight: normal
 dataSource:
   type: PAGE
-  value: '"周报"'
+  value: '"MistCastle"'
   dateField: {}
 fillTheScreen: true
 enableMainContainerShadow: false
@@ -35,6 +35,5 @@ cellStyleRules:
     color: "#d94e49"
     min: 5
     max: 9999
-cellStyle: {}
 
 ```

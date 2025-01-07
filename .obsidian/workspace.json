@@ -11,18 +11,28 @@
             "id": "15239e55f1bf15b4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "知识库/Gitlab 用户信息.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "path": "自媒体内容/周报"
               },
               "icon": "lucide-file",
-              "title": "Gitlab 用户信息"
+              "title": "周报"
+            }
+          },
+          {
+            "id": "ff4c25c1ee917fa0",
+            "type": "leaf",
+            "state": {
+              "type": "mk-space",
+              "state": {
+                "path": "自媒体内容/周报"
+              },
+              "icon": "lucide-file",
+              "title": "周报"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -75,7 +85,7 @@
             }
           },
           {
-            "id": "eb34253f8dc8b21d",
+            "id": "a284b2a8d5d1d36d",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -197,51 +207,51 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "15239e55f1bf15b4",
+  "active": "ff4c25c1ee917fa0",
   "lastOpenFiles": [
-    "知识库/Github Token.md",
+    "自媒体内容/周报/2025-W02.md",
+    "自媒体内容/周报/2024-W51-FW9.md",
+    "自媒体内容/周报/2025-W01.md",
+    "自媒体内容/周报/2024-W52-FW10.md",
+    "MistCastle/MistCastle.md",
+    "自媒体内容/视频选题/视频选题.md",
+    "自媒体内容/视频选题/风中行者：放弃了死亡细胞就为了这？.md",
+    "自媒体内容/视频选题/沉没意志：我的2024年度剧情游戏.md",
+    "自媒体内容/视频选题/[REDACTED]：被深度拉跨的最佳案例.md",
+    "自媒体内容/自媒体内容.md",
+    "自媒体内容/周报.md",
+    "未命名",
+    "自媒体内容/周报/周报.md",
+    "MistCastle/剧情/剧情.md",
+    "MistCastle/剧本/剧本.md",
+    "知识库/知识库.md",
+    "文字创作/文字创作.md",
+    "MistCastle/剧本/奇迹的孤儿.md",
+    "MistCastle/设定/角色/特别的护火人.md",
+    "MistCastle/剧情/Chapter 0：奇迹的孤儿.md",
+    "MistCastle/剧本",
+    "MistCastle/Vault.md",
+    "娱乐记录/娱乐记录.md",
     "知识库/Gitlab 用户信息.md",
+    "知识库/Github Token.md",
     "DiveUp/跃入迷城/美术/VFX/需求.md",
     "DiveUp/跃入迷城/美术/VFX/风格.md",
     "DiveUp/跃入迷城/美术/VFX/Image/1月3日.gif",
     "DiveUp/跃入迷城/美术/VFX/Image/1月3日(1).png",
     "DiveUp/跃入迷城/美术/VFX/Image/Image.md",
     "DiveUp/跃入迷城/美术/VFX/Image",
-    "DiveUp/跃入迷城/美术/VFX/VFX.md",
     "DiveUp/跃入迷城/美术/VFX/Image/1月3日(6).png",
-    "DiveUp/跃入迷城/美术/VFX/边界定义.md",
     "DiveUp/跃入迷城/美术/VFX/Image/1月3日(3).png",
     "DiveUp/跃入迷城/美术/VFX/Image/1月3日(4).png",
     "DiveUp/跃入迷城/美术/VFX/Image/1月3日(5).png",
-    "娱乐记录/游戏/使命召唤21.md",
-    "娱乐记录/游戏/上行战场.md",
-    "DiveUp/跃入迷城/美术/VFX/武器VFX需求.md",
-    "娱乐记录/游戏/SUPERVIVE.md",
-    "娱乐记录/游戏/LOL.md",
-    "娱乐记录/娱乐记录.md",
-    "娱乐记录/游戏/游戏.md",
-    "DiveUp/跃入迷城/声音/SFX/武器/武器.md",
     "DiveUp/跃入迷城/声音/SFX/武器",
-    "DiveUp/跃入迷城/声音/SFX/SFX.md",
     "DiveUp/跃入迷城/声音/SFX",
-    "DiveUp/跃入迷城/声音/声音.md",
     "DiveUp/跃入迷城/声音",
     "DiveUp/跃入迷城/美术/VFX",
-    "DiveUp/跃入迷城/美术/美术.md",
-    "DiveUp/跃入迷城/美术/未命名.md",
-    "DiveUp/跃入迷城/美术/VFX.md",
     "DiveUp/跃入迷城/美术",
-    "DiveUp/跃入迷城/玩法/玩法.md",
-    "自媒体内容/周报/2025-W01.md",
     "未命名.canvas",
-    "Excalidraw/Drawing 2025-01-02 17.46.27.excalidraw.md",
-    "自媒体内容/自媒体内容.md",
-    "Excalidraw/Drawing 2025-01-02 17.46.16.excalidraw.md",
-    "自媒体内容/周报/周报.md",
     "Tags/#2",
     "Tags/#4",
-    "Tags/#5",
-    "自媒体内容/视频选题",
     "未命名 1.canvas"
   ]
 }
