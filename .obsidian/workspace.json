@@ -8,31 +8,21 @@
         "type": "tabs",
         "children": [
           {
-            "id": "15239e55f1bf15b4",
-            "type": "leaf",
-            "state": {
-              "type": "mk-space",
-              "state": {
-                "path": "自媒体内容/周报"
-              },
-              "icon": "lucide-file",
-              "title": "周报"
-            }
-          },
-          {
             "id": "ff4c25c1ee917fa0",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "自媒体内容/周报"
+                "file": "自媒体内容/周报/2025-W02.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "周报"
+              "title": "2025-W02"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -115,6 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "自媒体内容/周报/2025-W02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +115,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "2025-W02 的反向链接列表"
             }
           },
           {
@@ -133,11 +124,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "自媒体内容/周报/2025-W02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "2025-W02 的出链列表"
             }
           },
           {
@@ -159,10 +151,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "自媒体内容/周报/2025-W01.md"
+                "file": "自媒体内容/周报/2025-W02.md"
               },
               "icon": "lucide-list",
-              "title": "2025-W01 的大纲"
+              "title": "2025-W02 的大纲"
             }
           },
           {
@@ -171,8 +163,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "插件不再活动"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           },
           {
@@ -185,12 +177,11 @@
               "title": "Calendar"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 277.5
+    "width": 358.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -209,36 +200,37 @@
   },
   "active": "ff4c25c1ee917fa0",
   "lastOpenFiles": [
+    "自媒体内容/周报/周报.md",
+    "娱乐记录/剧集/秘密关卡.md",
+    "娱乐记录/剧集/剧集.md",
     "自媒体内容/周报/2025-W02.md",
+    "Excalidraw/Drawing 2025-01-07 10.36.34.excalidraw.md",
+    "自媒体内容/视频选题/视频选题.md",
+    "自媒体内容/自媒体内容.md",
+    "MistCastle/MistCastle.md",
+    "Vault.md",
+    "文字创作/文字创作.md",
+    "娱乐记录/娱乐记录.md",
+    "知识库/知识库.md",
+    "知识库/公司/公司.md",
+    "功能文件/功能文件.md",
+    "功能文件",
+    "未命名.md",
+    "Excalidraw/Drawing 2025-01-02 17.46.16.excalidraw.md",
+    "Excalidraw/Drawing 2024-12-31 14.25.51.excalidraw.md",
+    "模板/游戏测评.md",
     "自媒体内容/周报/2024-W51-FW9.md",
     "自媒体内容/周报/2025-W01.md",
     "自媒体内容/周报/2024-W52-FW10.md",
-    "MistCastle/MistCastle.md",
-    "自媒体内容/视频选题/视频选题.md",
     "自媒体内容/视频选题/风中行者：放弃了死亡细胞就为了这？.md",
     "自媒体内容/视频选题/沉没意志：我的2024年度剧情游戏.md",
     "自媒体内容/视频选题/[REDACTED]：被深度拉跨的最佳案例.md",
-    "自媒体内容/自媒体内容.md",
     "自媒体内容/周报.md",
     "未命名",
-    "自媒体内容/周报/周报.md",
     "MistCastle/剧情/剧情.md",
-    "MistCastle/剧本/剧本.md",
-    "知识库/知识库.md",
-    "文字创作/文字创作.md",
-    "MistCastle/剧本/奇迹的孤儿.md",
-    "MistCastle/设定/角色/特别的护火人.md",
-    "MistCastle/剧情/Chapter 0：奇迹的孤儿.md",
     "MistCastle/剧本",
-    "MistCastle/Vault.md",
-    "娱乐记录/娱乐记录.md",
-    "知识库/Gitlab 用户信息.md",
-    "知识库/Github Token.md",
-    "DiveUp/跃入迷城/美术/VFX/需求.md",
-    "DiveUp/跃入迷城/美术/VFX/风格.md",
     "DiveUp/跃入迷城/美术/VFX/Image/1月3日.gif",
     "DiveUp/跃入迷城/美术/VFX/Image/1月3日(1).png",
-    "DiveUp/跃入迷城/美术/VFX/Image/Image.md",
     "DiveUp/跃入迷城/美术/VFX/Image",
     "DiveUp/跃入迷城/美术/VFX/Image/1月3日(6).png",
     "DiveUp/跃入迷城/美术/VFX/Image/1月3日(3).png",
@@ -251,7 +243,6 @@
     "DiveUp/跃入迷城/美术",
     "未命名.canvas",
     "Tags/#2",
-    "Tags/#4",
     "未命名 1.canvas"
   ]
 }
