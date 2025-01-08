@@ -143,7 +143,7 @@
             }
           },
           {
-            "id": "f97e61bd54e42276",
+            "id": "95adece649005650",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -261,7 +261,6 @@
       "markdown-importer:打开 Markdown 格式转换器": false,
       "zk-prefixer:创建时间戳笔记": false,
       "obsidian-git:Open Git source control": false,
-      "templater-obsidian:Templater": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
