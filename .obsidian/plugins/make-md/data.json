@@ -59,7 +59,8 @@
     "//文字创作",
     "//自媒体内容/自媒体内容/视频选题",
     "/",
-    "//自媒体内容"
+    "//自媒体内容",
+    "//SisyphusEscape"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
