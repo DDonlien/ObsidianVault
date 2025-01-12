@@ -85,10 +85,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "游戏创意/猫别塔.md"
+                "file": "游戏创意/像素狂潮.md"
               },
               "icon": "excalidraw-icon",
-              "title": "猫别塔"
+              "title": "像素狂潮"
             }
           }
         ],
@@ -150,14 +150,14 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2025-01-12 15.35.24.excalidraw.md"
+                "file": "游戏创意/像素狂潮.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Drawing 2025-01-12 15.35.24.excalidraw"
+              "title": "像素狂潮"
             }
           },
           {
-            "id": "fd3bb45b752d7802",
+            "id": "a4a39eaac2ee7438",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -258,9 +258,19 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
+          },
+          {
+            "id": "eb0878bb49518f4e",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -268,6 +278,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -282,11 +293,13 @@
   },
   "active": "99775546e1bd36c0",
   "lastOpenFiles": [
+    "游戏创意/猫别塔.md",
     "游戏创意/骰出重围.md",
+    "游戏创意/西西弗逃生.md",
+    "游戏创意/像素狂潮.md",
     "游戏创意/未命名.md",
     "知识库/知识库.md",
     "Excalidraw/Excalidraw.md",
-    "Excalidraw/Drawing 2025-01-12 15.35.24.excalidraw.md",
     "Archive/Archive.md",
     "游戏创意/游戏创意.md",
     "游戏创意",
@@ -308,8 +321,6 @@
     "DiveUp/跃入迷城/故事/设定/角色/小怪/劳旅/劳旅.md",
     "DiveUp/跃入迷城/故事/设定/角色/小怪/劳旅/未命名 2.md",
     "DiveUp/跃入迷城/故事/设定/角色/小怪/劳旅/未命名 1.md",
-    "DiveUp/跃入迷城/故事/设定/角色/小怪/劳旅/未命名 3.md",
-    "DiveUp/跃入迷城/故事/设定/阵营/特许政府/特许政府.md",
     "DiveUp/跃入迷城/故事/设定/角色/小怪/劳旅",
     "DiveUp/跃入迷城/美术/VFX/Image/1月3日(5).png",
     "DiveUp/跃入迷城/美术/VFX/Image/1月3日.gif",
