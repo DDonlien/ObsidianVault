@@ -85,10 +85,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "游戏创意/像素狂潮.md"
+                "file": "游戏创意/猫别塔.md"
               },
               "icon": "excalidraw-icon",
-              "title": "像素狂潮"
+              "title": "猫别塔"
             }
           }
         ],
@@ -145,19 +145,7 @@
             }
           },
           {
-            "id": "923ebac634409d64",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "游戏创意/像素狂潮.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "像素狂潮"
-            }
-          },
-          {
-            "id": "a4a39eaac2ee7438",
+            "id": "fd3bb45b752d7802",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -167,7 +155,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -258,19 +246,9 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
-          },
-          {
-            "id": "eb0878bb49518f4e",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -278,7 +256,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -293,13 +270,13 @@
   },
   "active": "99775546e1bd36c0",
   "lastOpenFiles": [
-    "游戏创意/猫别塔.md",
-    "游戏创意/骰出重围.md",
     "游戏创意/西西弗逃生.md",
     "游戏创意/像素狂潮.md",
+    "游戏创意/骰出重围.md",
     "游戏创意/未命名.md",
     "知识库/知识库.md",
     "Excalidraw/Excalidraw.md",
+    "Excalidraw/Drawing 2025-01-12 15.35.24.excalidraw.md",
     "Archive/Archive.md",
     "游戏创意/游戏创意.md",
     "游戏创意",
