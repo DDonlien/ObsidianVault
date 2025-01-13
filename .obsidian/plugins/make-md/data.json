@@ -61,7 +61,8 @@
     "/",
     "//娱乐记录/娱乐记录/电影",
     "//游戏创意",
-    "//Excalidraw"
+    "//Excalidraw",
+    "//Archive"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
