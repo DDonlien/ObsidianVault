@@ -85,14 +85,50 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "游戏创意/骰出重围.md"
+                "file": "游戏创意/GGJ头脑风暴.md"
               },
               "icon": "excalidraw-icon",
-              "title": "骰出重围"
+              "title": "GGJ头脑风暴"
+            }
+          },
+          {
+            "id": "87ee864ebd0976c8",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "游戏创意/GGJ头脑风暴.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "GGJ头脑风暴"
+            }
+          },
+          {
+            "id": "77be83c45668275f",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "游戏创意/棚户.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "棚户"
+            }
+          },
+          {
+            "id": "6cd865a4746cdad7",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "游戏创意/西西弗逃生.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "西西弗逃生"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -269,18 +305,20 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "99775546e1bd36c0",
+  "active": "77be83c45668275f",
   "lastOpenFiles": [
-    "Archive/Archive.md",
-    "知识库/知识库.md",
+    "游戏创意/GGJ头脑风暴.md",
+    "游戏创意/棚户.md",
+    "游戏创意/骰出重围.md",
     "游戏创意/猫别塔.md",
     "游戏创意/西西弗逃生.md",
+    "游戏创意/游戏创意.md",
+    "Archive/Archive.md",
+    "知识库/知识库.md",
     "游戏创意/像素狂潮.md",
-    "游戏创意/骰出重围.md",
     "游戏创意/未命名.md",
     "Excalidraw/Excalidraw.md",
     "Excalidraw/Drawing 2025-01-12 15.35.24.excalidraw.md",
-    "游戏创意/游戏创意.md",
     "游戏创意",
     "娱乐记录/娱乐记录.md",
     "娱乐记录/电影/电影.md",
@@ -297,8 +335,6 @@
     "DiveUp/跃入迷城/故事/设定/角色/小怪/劳旅/钉枪工.md",
     "DiveUp/跃入迷城/故事/设定/角色/小怪/劳旅/未命名.md",
     "DiveUp/跃入迷城/故事/设定/角色/小怪/劳旅/未命名 4.md",
-    "DiveUp/跃入迷城/故事/设定/角色/小怪/劳旅/劳旅.md",
-    "DiveUp/跃入迷城/故事/设定/角色/小怪/劳旅/未命名 2.md",
     "DiveUp/跃入迷城/故事/设定/角色/小怪/劳旅",
     "DiveUp/跃入迷城/美术/VFX/Image/1月3日(5).png",
     "DiveUp/跃入迷城/美术/VFX/Image/1月3日.gif",
