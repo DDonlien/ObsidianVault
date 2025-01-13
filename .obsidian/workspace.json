@@ -191,15 +191,12 @@
             "id": "49398f4c7b1789db",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "娱乐记录/游戏/亡者之地.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "游戏创意/GGJ头脑风暴.md"
               },
-              "icon": "lucide-file",
-              "title": "亡者之地"
+              "icon": "excalidraw-icon",
+              "title": "GGJ头脑风暴"
             }
           },
           {
@@ -392,10 +389,12 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "aa04cf59dde9436e",
+  "active": "49398f4c7b1789db",
   "lastOpenFiles": [
-    "游戏创意/GGJ头脑风暴.md",
+    "娱乐记录/娱乐记录.md",
+    "娱乐记录/游戏/游戏.md",
     "娱乐记录/游戏/亡者之地.md",
+    "游戏创意/GGJ头脑风暴.md",
     "游戏创意/骰出重围.md",
     "游戏创意/调查开始.md",
     "游戏创意/房间.md",
@@ -414,7 +413,6 @@
     "Excalidraw/Excalidraw.md",
     "Excalidraw/Drawing 2025-01-12 15.35.24.excalidraw.md",
     "游戏创意",
-    "娱乐记录/娱乐记录.md",
     "娱乐记录/电影/电影.md",
     "文字创作/文字创作.md",
     "Archive",
@@ -423,7 +421,6 @@
     "自媒体内容/视频选题/音乐离开弹琴说爱，就写不来？.md",
     "自媒体内容/视频选题/风中行者：放弃了死亡细胞就为了这？.md",
     "自媒体内容/视频选题/Thronefall：重铸塔防荣光？.md",
-    "娱乐记录/书籍/电幻国度.md",
     "DiveUp/跃入迷城/故事/设定/角色/小怪/劳旅",
     "DiveUp/跃入迷城/美术/VFX/Image/1月3日(5).png",
     "DiveUp/跃入迷城/美术/VFX/Image/1月3日.gif",
