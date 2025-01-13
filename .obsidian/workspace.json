@@ -11,15 +11,12 @@
             "id": "bb98973169500b1a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "迷宫球/迷宫/构成/迷宫立方.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "path": "迷宫球"
               },
               "icon": "lucide-file",
-              "title": "迷宫立方"
+              "title": "迷宫球"
             }
           }
         ]
@@ -75,7 +72,7 @@
             }
           },
           {
-            "id": "f123a597e964546e",
+            "id": "c7f1c014a533d702",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -199,8 +196,25 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bb98973169500b1a",
+  "active": "c7f1c014a533d702",
   "lastOpenFiles": [
+    "迷宫球/迷宫球.md",
+    "游戏创意/草稿/草稿.md",
+    "游戏创意/活动/GGJ头脑风暴.md",
+    "游戏创意/完整/完整.md",
+    "游戏创意/认真.md",
+    "游戏创意/完整",
+    "游戏创意/游戏创意.md",
+    "游戏创意/草稿/骰出重围.md",
+    "游戏创意/草稿/调查开始.md",
+    "文字创作/文字创作.md",
+    "游戏创意/活动/活动.md",
+    "游戏创意/草稿",
+    "游戏创意/活动",
+    "迷宫球/球/球.md",
+    "BallMaze/BallMaze.md",
+    "迷宫球/迷宫/构成/迷宫立方.md",
+    "conflict-files-obsidian-git.md",
     "BallMaze/迷宫/迷宫.md",
     "BallMaze/迷宫/构成/迷宫立方.md",
     "BallMaze/迷宫/构成/迷宫单位.md",
@@ -217,28 +231,11 @@
     "BallMaze/迷宫/世界",
     "BallMaze/迷宫",
     "BallMaze/美术.md",
-    "BallMaze/球/球.md",
     "BallMaze/球",
-    "BallMaze/BallMaze.md",
     "BallMaze",
-    "迷宫球/迷宫/世界/世界.md",
-    "迷宫球/迷宫/构成/构成.md",
-    "迷宫球/迷宫球.md",
-    "棚户/棚户.md",
     "棚户",
-    "MistCastle/MistCastle.md",
-    "娱乐记录/娱乐记录.md",
-    "Archive/Archive.md",
-    "游戏创意/GGJ头脑风暴.md",
     "Pasted Image 20250113114749_497.png",
     "Pasted Image 20250113114302_559.png",
-    "娱乐记录/游戏/游戏.md",
-    "娱乐记录/游戏/亡者之地.md",
-    "游戏创意/骰出重围.md",
-    "游戏创意/调查开始.md",
-    "游戏创意",
-    "Archive",
-    "DiveUp/跃入迷城/故事/设定/角色/小怪/劳旅",
     "DiveUp/跃入迷城/美术/VFX/Image/1月3日(5).png",
     "DiveUp/跃入迷城/美术/VFX/Image/1月3日.gif",
     "DiveUp/跃入迷城/美术/VFX/Image/1月3日(6).png",
