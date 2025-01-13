@@ -59,10 +59,7 @@
     "//文字创作",
     "//自媒体内容/自媒体内容/视频选题",
     "/",
-    "//娱乐记录/娱乐记录/电影",
-    "//游戏创意",
-    "//Excalidraw",
-    "//Archive"
+    "//娱乐记录/娱乐记录/电影"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
@@ -70,7 +67,9 @@
   "spaceSubFolder": ".space",
   "hiddenFiles": [
     "模板",
-    "Tags"
+    "Tags",
+    "Pasted Image 20250113114749_497.png",
+    "Pasted Image 20250113114302_559.png"
   ],
   "hiddenExtensions": [
     ".mdb",

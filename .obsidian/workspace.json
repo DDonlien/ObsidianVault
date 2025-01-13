@@ -4,215 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "b6f786708506f7f6",
+        "id": "59a58bee3784a5a6",
         "type": "tabs",
         "children": [
           {
-            "id": "ff4c25c1ee917fa0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "自媒体内容/周报/2025-W02.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-W02"
-            }
-          },
-          {
-            "id": "8eee074a6cbde86a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "自媒体内容/周报/2025-W02.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-W02"
-            }
-          },
-          {
-            "id": "2cb1e5534154c4ad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "自媒体内容/周报/2025-W02.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-W02"
-            }
-          },
-          {
-            "id": "f44478c5287287c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "自媒体内容/周报/2025-W02.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-W02"
-            }
-          },
-          {
-            "id": "791cfaa843a994e5",
+            "id": "bb98973169500b1a",
             "type": "leaf",
             "state": {
               "type": "mk-space",
               "state": {
-                "path": "知识库"
+                "path": "BallMaze"
               },
               "icon": "lucide-file",
-              "title": "知识库"
-            }
-          },
-          {
-            "id": "99775546e1bd36c0",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "游戏创意/GGJ头脑风暴.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "GGJ头脑风暴"
-            }
-          },
-          {
-            "id": "87ee864ebd0976c8",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "游戏创意/GGJ头脑风暴.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "GGJ头脑风暴"
-            }
-          },
-          {
-            "id": "77be83c45668275f",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "游戏创意/GGJ头脑风暴.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "GGJ头脑风暴"
-            }
-          },
-          {
-            "id": "63c8752077cd23e9",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "游戏创意/房间.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "房间"
-            }
-          },
-          {
-            "id": "7bd34dba4616f211",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "游戏创意/房间.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "房间"
-            }
-          },
-          {
-            "id": "694f897a07ee7a73",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "游戏创意/房间.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "房间"
-            }
-          },
-          {
-            "id": "a3f4ab4328636133",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "游戏创意/GGJ头脑风暴.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "GGJ头脑风暴"
-            }
-          },
-          {
-            "id": "d20924cb49c259e6",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "游戏创意/GGJ头脑风暴.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "GGJ头脑风暴"
-            }
-          },
-          {
-            "id": "9f7c38c56ae6a98b",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "游戏创意/GGJ头脑风暴.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "GGJ头脑风暴"
-            }
-          },
-          {
-            "id": "49398f4c7b1789db",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "游戏创意/GGJ头脑风暴.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "GGJ头脑风暴"
-            }
-          },
-          {
-            "id": "6cd865a4746cdad7",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "游戏创意/西西弗逃生.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "西西弗逃生"
+              "title": "BallMaze"
             }
           }
-        ],
-        "currentTab": 14
+        ]
       }
     ],
     "direction": "vertical"
@@ -265,7 +72,7 @@
             }
           },
           {
-            "id": "aa04cf59dde9436e",
+            "id": "f123a597e964546e",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -353,8 +160,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-file",
+              "title": "插件不再活动"
             }
           },
           {
@@ -376,7 +183,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -386,15 +192,23 @@
       "markdown-importer:打开 Markdown 格式转换器": false,
       "zk-prefixer:创建时间戳笔记": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "49398f4c7b1789db",
+  "active": "f123a597e964546e",
   "lastOpenFiles": [
+    "棚户/棚户.md",
+    "棚户",
+    "BallMaze/BallMaze.md",
+    "MistCastle/MistCastle.md",
     "娱乐记录/娱乐记录.md",
+    "Archive/Archive.md",
+    "游戏创意/GGJ头脑风暴.md",
+    "Pasted Image 20250113114749_497.png",
+    "Pasted Image 20250113114302_559.png",
     "娱乐记录/游戏/游戏.md",
     "娱乐记录/游戏/亡者之地.md",
-    "游戏创意/GGJ头脑风暴.md",
     "游戏创意/骰出重围.md",
     "游戏创意/调查开始.md",
     "游戏创意/房间.md",
@@ -403,12 +217,9 @@
     "游戏创意/西西弗逃生.md",
     "游戏创意/棚户.md",
     "娱乐记录/游戏/极乐迪斯科.md",
-    "Pasted Image 20250113114749_497.png",
-    "Pasted Image 20250113114302_559.png",
     "娱乐记录/游戏/极东1989.md",
     "知识库/知识库.md",
     "游戏创意/游戏创意.md",
-    "Archive/Archive.md",
     "游戏创意/未命名.md",
     "Excalidraw/Excalidraw.md",
     "Excalidraw/Drawing 2025-01-12 15.35.24.excalidraw.md",
@@ -418,9 +229,6 @@
     "Archive",
     "自媒体内容/视频选题/猛兽派对：躲过了开服的争议，打折的它真的好玩吗？.md",
     "自媒体内容/视频选题/Hades II：新作还是DLC？.md",
-    "自媒体内容/视频选题/音乐离开弹琴说爱，就写不来？.md",
-    "自媒体内容/视频选题/风中行者：放弃了死亡细胞就为了这？.md",
-    "自媒体内容/视频选题/Thronefall：重铸塔防荣光？.md",
     "DiveUp/跃入迷城/故事/设定/角色/小怪/劳旅",
     "DiveUp/跃入迷城/美术/VFX/Image/1月3日(5).png",
     "DiveUp/跃入迷城/美术/VFX/Image/1月3日.gif",
@@ -434,7 +242,6 @@
     "DiveUp/跃入迷城/故事/设定/角色/玩家",
     "DiveUp/跃入迷城/故事/设定/角色/小怪",
     "DiveUp/跃入迷城/故事/设定/角色/NPC",
-    "DiveUp/跃入迷城/故事/设定/角色/Boss",
     "DiveUp/跃入迷城 - Wiki/美术/VFX/Image/1月3日(6).png",
     "DiveUp/跃入迷城 - Wiki/美术/VFX/Image/1月3日(4).png",
     "未命名.canvas",
