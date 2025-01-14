@@ -11,11 +11,14 @@
             "id": "bb98973169500b1a",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "游戏创意/活动/GGJ头脑风暴.md"
+                "file": "游戏创意/活动/GGJ头脑风暴.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               },
-              "icon": "excalidraw-icon",
+              "icon": "lucide-file",
               "title": "GGJ头脑风暴"
             }
           }
@@ -72,7 +75,7 @@
             }
           },
           {
-            "id": "73076a69c5b6b5d3",
+            "id": "c7f1c014a533d702",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -198,8 +201,8 @@
   },
   "active": "bb98973169500b1a",
   "lastOpenFiles": [
-    "Tags/#武器",
     "Tags/#直伤",
+    "Tags/#武器",
     "游戏创意/游戏创意.md",
     "文字创作/文字创作.md",
     "知识库/知识库.md",
