@@ -11,14 +11,11 @@
             "id": "bb98973169500b1a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "游戏创意/活动/GGJ头脑风暴.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "游戏创意/活动/GGJ头脑风暴.md"
               },
-              "icon": "lucide-file",
+              "icon": "excalidraw-icon",
               "title": "GGJ头脑风暴"
             }
           }
@@ -75,7 +72,7 @@
             }
           },
           {
-            "id": "c7f1c014a533d702",
+            "id": "73076a69c5b6b5d3",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -201,6 +198,8 @@
   },
   "active": "bb98973169500b1a",
   "lastOpenFiles": [
+    "Tags/#武器",
+    "Tags/#直伤",
     "游戏创意/游戏创意.md",
     "文字创作/文字创作.md",
     "知识库/知识库.md",
@@ -229,14 +228,12 @@
     "游戏创意/草稿",
     "游戏创意/活动",
     "游戏创意/完整/迷宫球/球/球.md",
-    "BallMaze/BallMaze.md",
     "BallMaze/迷宫/构成",
     "BallMaze/迷宫/世界/关卡",
     "BallMaze/迷宫/世界",
     "BallMaze/迷宫",
     "BallMaze/球",
     "BallMaze",
-    "游戏创意/完整/棚户",
     "Pasted Image 20250113114749_497.png",
     "Pasted Image 20250113114302_559.png",
     "游戏创意/完整/跃入迷城/跃入迷城/美术/VFX/Image/1月3日(5).png",
