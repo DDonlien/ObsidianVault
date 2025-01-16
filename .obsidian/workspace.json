@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "文字创作/手.md",
+                "file": "知识库/未命名.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "手"
+              "title": "未命名"
             }
           }
         ],
@@ -91,7 +91,7 @@
             }
           },
           {
-            "id": "23e3cc87d153126c",
+            "id": "e42cfd8bd42331a4",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -217,8 +217,11 @@
   },
   "active": "dd78df79eb9479b7",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "知识库/未命名.md",
+    "知识库/知识库.md",
+    "游戏创意/完整/完整.md",
     "文字创作/手.md",
+    "conflict-files-obsidian-git.md",
     "游戏创意/完整/跃入迷城/跃入迷城/故事/设定/角色",
     "游戏创意/完整/跃入迷城/跃入迷城/故事/设定",
     "游戏创意/完整/跃入迷城/跃入迷城/故事",
@@ -238,7 +241,6 @@
     "Tags/#武器",
     "Tags/#直伤",
     "游戏创意/游戏创意.md",
-    "知识库/知识库.md",
     "知识库/Github Token.md",
     "游戏创意/草稿/草稿.md",
     "游戏创意/活动/活动.md",
@@ -247,8 +249,6 @@
     "娱乐记录/娱乐记录.md",
     "娱乐记录/电影/电影.md",
     "Excalidraw/Excalidraw.md",
-    "游戏创意/完整/棚户/棚户.md",
-    "Archive/Archive.md",
     "游戏创意/完整",
     "游戏创意/草稿",
     "游戏创意/活动",
