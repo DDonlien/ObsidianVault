@@ -26,12 +26,15 @@
             "id": "dd78df79eb9479b7",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "游戏创意/草稿/房间.md"
+                "file": "游戏创意/完整/泡影/MagicaVoxel.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "房间"
+              "icon": "lucide-file",
+              "title": "MagicaVoxel"
             }
           }
         ],
@@ -214,8 +217,10 @@
   },
   "active": "dd78df79eb9479b7",
   "lastOpenFiles": [
-    "游戏创意/完整/未命名.md",
+    "游戏创意/完整/泡影/MagicaVoxel.md",
+    "游戏创意/完整/泡影/泡影.md",
     "游戏创意/草稿/房间.md",
+    "游戏创意/完整/未命名.md",
     "游戏创意/草稿/棚户/棚户.md",
     "游戏创意/草稿/骰出重围.md",
     "游戏创意/草稿/像素狂潮.md",
@@ -223,7 +228,6 @@
     "游戏创意/草稿/步履.md",
     "游戏创意/草稿/棚户.md",
     "游戏创意/草稿/猫别塔.md",
-    "游戏创意/完整/泡影/泡影.md",
     "游戏创意/完整/泡影",
     "游戏创意/完整/西西弗逃生/西西弗逃生.md",
     "游戏创意/完整/迷宫球/迷宫球.md",
@@ -240,7 +244,6 @@
     "Clippings/不同游戏类型的市场生存空间以其他趋势——基于Steam评论数的分析 - 奶牛关.md",
     "知识库/创作者/创作者.md",
     "Clippings/数据报告：Steam收入百万美元开发者只有1600个，他们有4个特点  游戏大观  GameLook.com.cn 1.md",
-    "Clippings/精华报告：如何科学预估一款Steam游戏的销量？_腾讯新闻.md",
     "Clippings",
     "知识库/认知",
     "游戏创意/完整/跃入迷城/跃入迷城/故事/设定/角色",
