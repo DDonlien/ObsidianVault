@@ -43,7 +43,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "游戏创意/完整/ATION/卡牌/种类/属性/原生/火.md",
+                "file": "游戏创意/完整/ATION/行动块/种类/属性/原生/火.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -60,9 +60,33 @@
               "icon": "lucide-file",
               "title": "火"
             }
+          },
+          {
+            "id": "10db652c05e91223",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "游戏创意/完整/ATION/GDD - ATION.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "GDD - ATION"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -241,24 +265,26 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "131b323a2f5cf209",
+  "active": "10db652c05e91223",
   "lastOpenFiles": [
-    "游戏创意/完整/ATION/卡牌/种类/属性/原生/金.md",
-    "游戏创意/完整/ATION/卡牌/种类/属性/原生/火.md",
-    "游戏创意/完整/ATION/卡牌/种类/属性/原生/阴.md",
-    "游戏创意/完整/ATION/卡牌/种类/属性/原生/水.md",
-    "游戏创意/完整/ATION/卡牌/种类/属性/原生/阳.md",
-    "游戏创意/完整/ATION/卡牌/种类/属性/原生/无.md",
-    "游戏创意/完整/ATION/卡牌/种类/属性/面板.md",
-    "游戏创意/完整/ATION/卡牌/种类/释放/内爆.md",
-    "游戏创意/完整/ATION/卡牌/种类/释放/轰击.md",
-    "游戏创意/完整/ATION/卡牌/种类/释放/投射.md",
-    "游戏创意/完整/ATION/卡牌/种类/属性/原生/土.md",
-    "游戏创意/完整/ATION/卡牌/种类/属性/原生/木.md",
-    "游戏创意/完整/ATION/卡牌/规则/充能.md",
-    "游戏创意/完整/ATION/卡牌/规则/修饰.md",
-    "游戏创意/完整/ATION/卡牌/规则/增幅.md",
     "游戏创意/完整/ATION/GDD - ATION.md",
+    "游戏创意/完整/ATION/行动块/种类/属性/原生/火.md",
+    "游戏创意/完整/ATION/行动块/种类/属性/次生/光.md",
+    "游戏创意/完整/ATION/行动块/种类/属性/次生/熔.md",
+    "游戏创意/完整/ATION/行动块/种类/属性/原生/金.md",
+    "游戏创意/完整/ATION/行动块/种类/属性/原生/阴.md",
+    "游戏创意/完整/ATION/行动块/种类/属性/原生/水.md",
+    "游戏创意/完整/ATION/行动块/种类/属性/原生/阳.md",
+    "游戏创意/完整/ATION/行动块/种类/属性/原生/无.md",
+    "游戏创意/完整/ATION/行动块/种类/属性/面板.md",
+    "游戏创意/完整/ATION/行动块/种类/释放/内爆.md",
+    "游戏创意/完整/ATION/行动块/种类/释放/轰击.md",
+    "游戏创意/完整/ATION/行动块/种类/释放/投射.md",
+    "游戏创意/完整/ATION/行动块/种类/属性/原生/土.md",
+    "游戏创意/完整/ATION/行动块/种类/属性/原生/木.md",
+    "游戏创意/完整/ATION/行动块/规则/充能.md",
+    "游戏创意/完整/ATION/行动块/规则/修饰.md",
+    "游戏创意/完整/ATION/行动块/规则/增幅.md",
     "知识库/装机清单.md",
     "知识库/Github Token.md",
     "知识库/Gitlab 用户信息.md",
@@ -267,19 +293,17 @@
     "游戏创意/新鲜李四.md",
     "游戏创意/完整/完整.md",
     "游戏创意/活动/活动.md",
-    "游戏创意/游戏创意.md",
-    "知识库/知识库.md",
     "Pasted image 20250122122542.png",
-    "游戏创意/完整/ATION/卡牌/规则",
-    "游戏创意/完整/ATION/卡牌/种类/属性/混合",
-    "游戏创意/完整/ATION/卡牌/种类/属性/原生",
+    "游戏创意/完整/ATION/行动块/规则",
+    "游戏创意/完整/ATION/行动块/种类/属性/次生",
+    "游戏创意/完整/ATION/行动块/种类/属性/原生",
     "游戏创意/完整/ATION/卡牌/种类/未命名",
-    "游戏创意/完整/ATION/卡牌/种类/释放",
+    "游戏创意/完整/ATION/行动块/种类/释放",
     "游戏创意/完整/ATION/卡牌/种类/实际效果",
-    "游戏创意/完整/ATION/卡牌/种类/属性",
-    "游戏创意/完整/ATION/卡牌/种类/修饰",
-    "游戏创意/完整/ATION/卡牌/种类",
-    "游戏创意/完整/ATION/卡牌",
+    "游戏创意/完整/ATION/行动块/种类/属性",
+    "游戏创意/完整/ATION/行动块/种类/修饰",
+    "游戏创意/完整/ATION/行动块/种类",
+    "游戏创意/完整/ATION/行动块",
     "Pasted Image 20250113114749_497.png",
     "Pasted Image 20250113114302_559.png",
     "游戏创意/完整/跃入迷城/设计/美术/VFX/Image/1月3日(5).png",
