@@ -36,9 +36,84 @@
               "icon": "lucide-file",
               "title": "新鲜李四"
             }
+          },
+          {
+            "id": "131b323a2f5cf209",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "游戏创意/新鲜李四.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "新鲜李四"
+            }
+          },
+          {
+            "id": "01cc1362bd312921",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.4"
+            }
+          },
+          {
+            "id": "dc04a386779d8465",
+            "type": "leaf",
+            "state": {
+              "type": "mk-uri-view",
+              "state": {
+                "path": "https://www.make.md/static/latest.md"
+              },
+              "icon": "lucide-file",
+              "title": "https://www.make.md/static/latest.md"
+            }
+          },
+          {
+            "id": "9bdf28f95b195b10",
+            "type": "leaf",
+            "state": {
+              "type": "mk-uri-view",
+              "state": {
+                "path": "https://www.make.md/static/GetStarted.md"
+              },
+              "icon": "lucide-file",
+              "title": "https://www.make.md/static/GetStarted.md"
+            }
+          },
+          {
+            "id": "e76923f9bf551c4f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -91,7 +166,7 @@
             }
           },
           {
-            "id": "18c2030fb112520c",
+            "id": "12efd195357109fd",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -216,10 +291,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "dd78df79eb9479b7",
+  "active": "e76923f9bf551c4f",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "游戏创意/新鲜李四.md",
+    "游戏创意/完整/完整.md",
+    "游戏创意/活动/活动.md",
     "游戏创意/游戏创意.md",
+    "知识库/知识库.md",
+    "自媒体内容/自媒体内容.md",
+    "Pasted image 20250122122542.png",
+    "Clippings/在虚幻引擎5.3和更高版本中使用现代化Xcode  虚幻引擎 5.5 文档  Epic Developer Community.md",
     "游戏创意/完整/ATION/GDD - ATION.md",
     "游戏创意/完整/ATION/卡牌/种类/属性/原生/火.md",
     "游戏创意/完整/ATION/卡牌/规则/增幅.md",
@@ -248,13 +330,6 @@
     "游戏创意/完整/ATION/卡牌/未命名.md",
     "游戏创意/完整/ATION/卡牌/种类",
     "游戏创意/完整/ATION/卡牌",
-    "游戏创意/完整/ATION/ATION.md",
-    "游戏创意/草稿/像素狂潮.md",
-    "游戏创意/草稿/未命名.md",
-    "游戏创意/完整/未命名.md",
-    "游戏创意/草稿/草稿.md",
-    "Pasted image 20250122122542.png",
-    "游戏创意/完整/泡影/MagicaVoxel.md",
     "Pasted Image 20250113114749_497.png",
     "Pasted Image 20250113114302_559.png",
     "游戏创意/完整/跃入迷城/设计/美术/VFX/Image/1月3日(5).png",
