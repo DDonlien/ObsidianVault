@@ -87,33 +87,9 @@
               "icon": "lucide-file",
               "title": "https://www.make.md/static/GetStarted.md"
             }
-          },
-          {
-            "id": "e76923f9bf551c4f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -291,7 +267,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e76923f9bf551c4f",
+  "active": "9bdf28f95b195b10",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "游戏创意/新鲜李四.md",
