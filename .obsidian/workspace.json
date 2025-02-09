@@ -43,7 +43,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "游戏创意/完整/ATION/行动块/属性/原生/火.md",
+                "file": "游戏创意/完整/ATION/行动块/规则/加载.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -58,35 +58,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "火"
-            }
-          },
-          {
-            "id": "10db652c05e91223",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "游戏创意/完整/ATION/行动块/属性/原生/水.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "水"
+              "title": "加载"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -140,7 +116,7 @@
             }
           },
           {
-            "id": "860e5b507fd99473",
+            "id": "7551172d53e9f889",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -265,45 +241,45 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "10db652c05e91223",
+  "active": "131b323a2f5cf209",
   "lastOpenFiles": [
-    "游戏创意/完整/ATION/行动块/属性/原生/木.md",
-    "游戏创意/完整/ATION/行动块/属性/原生/水.md",
-    "游戏创意/完整/ATION/行动块/属性/原生/金.md",
-    "游戏创意/完整/ATION/行动块/属性/次生/熔.md",
-    "游戏创意/完整/ATION/行动块/属性/次生/光.md",
-    "游戏创意/完整/ATION/行动块/属性/次生/汞.md",
-    "游戏创意/完整/ATION/行动块/属性/次生/锋.md",
-    "游戏创意/完整/ATION/行动块/属性/原生/原生.md",
-    "游戏创意/完整/ATION/行动块/属性/次生/次生.md",
-    "游戏创意/完整/ATION/行动块/规则/组合.md",
+    "游戏创意/完整/ATION/行动块/规则/规则.md",
     "游戏创意/完整/ATION/行动块/规则/修饰.md",
-    "游戏创意/完整/ATION/行动块/规则/充能.md",
-    "游戏创意/完整/ATION/行动块/种类/属性/面板.md",
-    "游戏创意/完整/ATION/行动块/属性/原生/无.md",
-    "游戏创意/完整/ATION/行动块/属性/原生/阳.md",
-    "游戏创意/完整/ATION/行动块/属性/原生/阴.md",
-    "游戏创意/完整/ATION/行动块/属性/原生/火.md",
-    "游戏创意/完整/ATION/GDD - ATION.md",
-    "游戏创意/完整/ATION/行动块/属性/原生/土.md",
-    "游戏创意/完整/ATION/行动块/释放/内爆.md",
-    "游戏创意/完整/ATION/行动块/释放/轰击.md",
-    "游戏创意/完整/ATION/行动块/释放/投射.md",
-    "知识库/装机清单.md",
-    "知识库/Github Token.md",
-    "知识库/Gitlab 用户信息.md",
-    "知识库/硬盘存储计算.md",
+    "游戏创意/完整/ATION/行动块/规则/组合.md",
+    "游戏创意/完整/ATION/行动块/规则/投射物.md",
+    "游戏创意/完整/ATION/行动块/规则/力场.md",
+    "游戏创意/完整/ATION/行动块/规则/加载.md",
+    "游戏创意/完整/ATION/行动块/修饰/连锁.md",
+    "游戏创意/完整/ATION/行动块/修饰/分裂.md",
+    "游戏创意/完整/ATION/行动块/释放/自主/魔灵.md",
+    "游戏创意/完整/ATION/行动块/修饰/余震.md",
+    "游戏创意/完整/ATION/行动块/修饰/触发.md",
+    "游戏创意/完整/ATION/行动块/释放/自主/埋伏.md",
+    "游戏创意/完整/ATION/行动块/释放/自主/螺旋.md",
+    "游戏创意/完整/ATION/行动块/释放/自主/法球.md",
+    "游戏创意/完整/ATION/行动块/释放/自主/内爆.md",
+    "游戏创意/完整/ATION/行动块/释放/释放.md",
+    "游戏创意/完整/ATION/行动块/释放/自主/波澜.md",
+    "游戏创意/完整/ATION/行动块/属性/原生属性/火.md",
+    "游戏创意/完整/ATION/行动块/释放/连锁/触发.md",
+    "游戏创意/完整/ATION/行动块/释放/连锁/触发法球.md",
+    "游戏创意/完整/ATION/行动块/释放/自主/标枪.md",
+    "游戏创意/完整/ATION/行动块/释放/自主/轰击.md",
+    "游戏创意/完整/ATION/行动块/释放/自主/魔球.md",
+    "游戏创意/完整/ATION/行动块/释放/自主/冲刺.md",
+    "游戏创意/完整/ATION/行动块/修饰/定时.md",
+    "游戏创意/完整/ATION/行动块/修饰/弹跳.md",
+    "游戏创意/完整/ATION/行动块/释放/连锁",
+    "游戏创意/完整/ATION/行动块/释放/自主",
     "Pasted image 20250122122542.png",
     "游戏创意/完整/ATION/行动块/规则",
-    "游戏创意/完整/ATION/行动块/属性/次生",
-    "游戏创意/完整/ATION/行动块/属性/原生",
+    "游戏创意/完整/ATION/行动块/属性/次生属性",
+    "游戏创意/完整/ATION/行动块/属性/原生属性",
     "游戏创意/完整/ATION/卡牌/种类/未命名",
     "游戏创意/完整/ATION/行动块/释放",
     "游戏创意/完整/ATION/卡牌/种类/实际效果",
     "游戏创意/完整/ATION/行动块/属性",
     "游戏创意/完整/ATION/行动块/修饰",
-    "游戏创意/完整/ATION/行动块/种类",
-    "游戏创意/完整/ATION/行动块",
     "Pasted Image 20250113114749_497.png",
     "Pasted Image 20250113114302_559.png",
     "游戏创意/完整/跃入迷城/设计/美术/VFX/Image/1月3日(5).png",
