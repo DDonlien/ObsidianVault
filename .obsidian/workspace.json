@@ -30,33 +30,8 @@
               "icon": "lucide-file",
               "title": "对话草稿"
             }
-          },
-          {
-            "id": "169422d2bf3b252a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -235,10 +210,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "169422d2bf3b252a",
+  "active": "bb98973169500b1a",
   "lastOpenFiles": [
-    "游戏创意/完整/跃入迷城/跃入迷城/故事/对话草稿.md",
     "conflict-files-obsidian-git.md",
+    "游戏创意/完整/跃入迷城/跃入迷城/故事/对话草稿.md",
     "知识库/Prompt.md",
     "文字创作/癫火.md",
     "游戏创意/完整/ATION/行动块/规则/加载.md",
