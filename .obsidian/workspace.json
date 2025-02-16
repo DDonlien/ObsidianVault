@@ -85,7 +85,7 @@
             }
           },
           {
-            "id": "fd64ca90c4842a7a",
+            "id": "54b1bc772b80ace2",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -183,8 +183,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-file",
+              "title": "插件不再活动"
             }
           }
         ],
