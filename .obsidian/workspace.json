@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "游戏创意/完整/跃入迷城/跃入迷城/故事/对话草稿.md",
+                "file": "文字创作/癫火.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,35 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "对话草稿"
-            }
-          },
-          {
-            "id": "24d2d448022f3275",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "癫火"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -235,9 +210,24 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "24d2d448022f3275",
+  "active": "bb98973169500b1a",
   "lastOpenFiles": [
-    "游戏创意/完整/跃入迷城/跃入迷城/故事/对话草稿.md",
+    "游戏创意/完整/调查深入/调查深入.md",
+    "游戏创意/完整/调查深入",
+    "文字创作/癫火.md",
+    "游戏创意/草稿/房间.md",
+    "游戏创意/草稿/猫别塔.md",
+    "游戏创意/草稿/骰出重围.md",
+    "游戏创意/草稿/像素狂潮.md",
+    "游戏创意/草稿/棚户.md",
+    "游戏创意/草稿/步履.md",
+    "游戏创意/草稿/调查开始.md",
+    "游戏创意/草稿/未命名.md",
+    "游戏创意/活动/GGJ头脑风暴.md",
+    "游戏创意/完整/Dive Up/跃入迷城/跃入迷城.md",
+    "游戏创意/完整/Mist Castle/剧情/Chapter 0：奇迹的孤儿.md",
+    "文字创作/2025217.md",
+    "游戏创意/完整/Dive Up/故事/对话草稿.md",
     "conflict-files-obsidian-git.md",
     "Archive/自媒体内容/视频选题/风中行者：放弃了死亡细胞就为了这？.md",
     "Archive/自媒体内容/视频选题/音乐离开弹琴说爱，就写不来？.md",
@@ -249,26 +239,12 @@
     "Archive/自媒体内容/视频选题/使命召唤21：过去5年最佳的单人剧情，就这？.md",
     "Archive/自媒体内容/视频选题/Thronefall：重铸塔防荣光？.md",
     "Archive/自媒体内容/视频选题/[REDACTED]：被深度拉跨的最佳案例.md",
-    "Archive/自媒体内容/视频选题/Hades II：新作还是DLC？.md",
-    "Archive/自媒体内容/周报/周报.md",
-    "Archive/自媒体内容/周报/2025-W02.md",
-    "Archive/自媒体内容/周报/2024-W52-FW10.md",
-    "Archive/自媒体内容/周报/2025-W01.md",
-    "Archive/自媒体内容/周报/2024-W51-FW9.md",
     "Archive/自媒体内容/视频选题",
-    "Archive/自媒体内容/自媒体内容.md",
     "Archive/自媒体内容/周报",
     "Archive/自媒体内容",
     "Archive/Pasted image 20250122122542.png",
     "Archive/Pasted Image 20250113114749_497.png",
     "Archive/Pasted Image 20250113114302_559.png",
-    "知识库/Prompt.md",
-    "文字创作/癫火.md",
-    "游戏创意/完整/ATION/行动块/规则/加载.md",
-    "游戏创意/完整/ATION/行动块/规则/修饰.md",
-    "游戏创意/完整/ATION/行动块/修饰/分裂.md",
-    "游戏创意/完整/ATION/行动块/修饰/余震.md",
-    "游戏创意/完整/ATION/行动块/规则/投射物.md",
     "游戏创意/完整/ATION/行动块/释放/连锁",
     "游戏创意/完整/ATION/行动块/释放/自主",
     "Pasted image 20250122122542.png",
@@ -276,13 +252,12 @@
     "游戏创意/完整/ATION/行动块/属性/次生属性",
     "游戏创意/完整/ATION/行动块/属性/原生属性",
     "游戏创意/完整/ATION/卡牌/种类/未命名",
-    "游戏创意/完整/ATION/行动块/释放",
     "Pasted Image 20250113114749_497.png",
     "Pasted Image 20250113114302_559.png",
-    "游戏创意/完整/跃入迷城/设计/美术/VFX/Image/1月3日(5).png",
-    "游戏创意/完整/跃入迷城/设计/美术/VFX/Image/1月3日.gif",
-    "游戏创意/完整/跃入迷城/设计/美术/VFX/Image/1月3日(6).png",
-    "游戏创意/完整/跃入迷城/设计/美术/VFX/Image/1月3日(4).png",
+    "游戏创意/完整/Dive Up/设计/美术/VFX/Image/1月3日(5).png",
+    "游戏创意/完整/Dive Up/设计/美术/VFX/Image/1月3日.gif",
+    "游戏创意/完整/Dive Up/设计/美术/VFX/Image/1月3日(6).png",
+    "游戏创意/完整/Dive Up/设计/美术/VFX/Image/1月3日(4).png",
     "未命名.canvas",
     "未命名 1.canvas"
   ]
