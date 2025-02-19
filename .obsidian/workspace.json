@@ -30,6 +30,18 @@
               "icon": "lucide-file",
               "title": "不同游戏类型的市场生存空间以其他趋势——基于Steam评论数的分析 - 奶牛关"
             }
+          },
+          {
+            "id": "c35252fe7b2c993e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.7"
+            }
           }
         ]
       }
@@ -58,6 +70,16 @@
             }
           },
           {
+            "id": "48c63909c6c01f02",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          },
+          {
             "id": "a11e591afee998c9",
             "type": "leaf",
             "state": {
@@ -75,17 +97,7 @@
             }
           },
           {
-            "id": "48c63909c6c01f02",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "书签"
-            }
-          },
-          {
-            "id": "626a5e0be41e3895",
+            "id": "2a7d1bed2fa8f22f",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
