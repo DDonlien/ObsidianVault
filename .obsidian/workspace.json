@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "游戏创意/完整/Dive Up/设计/关卡表.md",
+                "file": "游戏创意/完整/Mist Castle/剧本/实验记录.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "关卡表"
+              "title": "实验记录"
             }
           },
           {
@@ -97,7 +97,7 @@
             }
           },
           {
-            "id": "3f84d044ba1ff6a0",
+            "id": "757db49ab5064957",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -224,8 +224,8 @@
   },
   "active": "bb98973169500b1a",
   "lastOpenFiles": [
-    "游戏创意/完整/Mist Castle/剧本/实验记录.md",
     "游戏创意/完整/Dive Up/设计/关卡表.md",
+    "游戏创意/完整/Mist Castle/剧本/实验记录.md",
     "游戏创意/完整/Mist Castle/剧本/剧本.md",
     "游戏创意/完整/Mist Castle/剧情/剧情.md",
     "游戏创意/完整/Mist Castle/剧本/奇迹的孤儿.md",
