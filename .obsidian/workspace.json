@@ -11,24 +11,12 @@
             "id": "bb98973169500b1a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "知识库/Prompt.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "path": "游戏创意/完整/Dive Up/设计/故事/设定/科技"
               },
               "icon": "lucide-file",
-              "title": "Prompt"
+              "title": "科技"
             }
           },
           {
@@ -222,8 +210,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bb98973169500b1a",
+  "active": "1e08e2bcf7a2fd28",
   "lastOpenFiles": [
+    "游戏创意/完整/Dive Up/设计/故事/设定/武器/武器.md",
+    "游戏创意/完整/Dive Up/设计/故事/设定/世界/荒原地区.md",
+    "游戏创意/完整/Dive Up/设计/故事/设定/世界/世界.md",
+    "游戏创意/完整/Dive Up/设计/故事/故事.md",
+    "游戏创意/完整/Dive Up/设计/声音/声音.md",
+    "知识库/硬盘存储计算.md",
+    "游戏创意/完整/Dive Up/Dive Up.md",
+    "游戏创意/完整/完整.md",
+    "游戏创意/完整/Dive Up/设计/美术/VFX/风格.md",
+    "游戏创意/完整/Dive Up/设计/美术/VFX/边界定义.md",
+    "游戏创意/完整/Dive Up/设计/美术/VFX/Image/Image.md",
+    "游戏创意/完整/Dive Up/设计/美术/VFX/VFX.md",
+    "游戏创意/完整/Dive Up/设计/美术/美术.md",
+    "知识库/Prompt.md",
     "知识库/公司/KOJIMA PRODUCTION.md",
     "知识库/公司/RockStar.md",
     "知识库/公司/Larian.md",
@@ -231,25 +233,11 @@
     "知识库/公司/CAPCOM.md",
     "知识库/公司/Bethesda.md",
     "知识库/公司/公司.md",
-    "知识库/硬盘存储计算.md",
     "知识库/创作者/Simon Stålenhag.md",
     "知识库/创作者/创作者.md",
     "知识库/Gitlab 用户信息.md",
     "知识库/Github Token.md",
     "游戏创意/完整/Mist Castle/剧本/实验记录.md",
-    "游戏创意/完整/Dive Up/设计/关卡表.md",
-    "游戏创意/完整/Mist Castle/剧本/剧本.md",
-    "游戏创意/完整/Mist Castle/剧情/剧情.md",
-    "游戏创意/完整/Mist Castle/剧本/奇迹的孤儿.md",
-    "游戏创意/完整/Mist Castle/Mist Castle.md",
-    "Clippings/不同游戏类型的市场生存空间以其他趋势——基于Steam评论数的分析 - 奶牛关.md",
-    "Clippings/精华报告：如何科学预估一款Steam游戏的销量？_腾讯新闻.md",
-    "Clippings/数据报告：Steam收入百万美元开发者只有1600个，他们有4个特点  游戏大观  GameLook.com.cn 1.md",
-    "Clippings/Get Tangent At Distance Along Spline Affected by Length - Programming & Scripting  Blueprint - Epic Developer Community Forums.md",
-    "Clippings/在虚幻引擎5.3和更高版本中使用现代化Xcode  虚幻引擎 5.5 文档  Epic Developer Community.md",
-    "文字创作/癫火.md",
-    "双喜.md",
-    "文字创作/手.md",
     "游戏创意/完整/调查深入",
     "Archive/自媒体内容/视频选题",
     "Archive/自媒体内容/周报",
