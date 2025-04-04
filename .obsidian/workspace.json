@@ -23,12 +23,12 @@
             "id": "ab13239075a625e5",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "mk-space",
               "state": {
-                "currentVersion": "1.8.9"
+                "path": "游戏创意/完整/Mist Castle/设定/世界"
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.9"
+              "icon": "lucide-file",
+              "title": "世界"
             }
           },
           {
@@ -223,8 +223,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "970b968fffac34a2",
+  "active": "eca352f9e4b93ac0",
   "lastOpenFiles": [
+    "游戏创意/完整/Mist Castle/设定/世界/世界.md",
+    "游戏创意/完整/Mist Castle/设定/设定.md",
+    "游戏创意/完整/Dive Up/设计/故事/设定/科技/科技.md",
+    "游戏创意/完整/Mist Castle/剧本/实验记录.md",
+    "游戏创意/完整/Mist Castle/剧本/奇迹的孤儿.md",
+    "游戏创意/完整/Mist Castle/剧情/Chapter 2：交界的阴影.md",
+    "游戏创意/完整/Mist Castle/剧情/Chapter 1：迷雾中的回响.md",
+    "游戏创意/完整/Mist Castle/剧情/Chapter 0：奇迹的孤儿.md",
+    "游戏创意/完整/Mist Castle/剧情/剧情.md",
+    "游戏创意/完整/Mist Castle/剧本/剧本.md",
     "游戏创意/完整/Dive Up/设计/故事/设定/武器/武器.md",
     "游戏创意/完整/Dive Up/设计/故事/设定/世界/荒原地区.md",
     "游戏创意/完整/Dive Up/设计/故事/设定/世界/世界.md",
@@ -241,16 +251,6 @@
     "知识库/Prompt.md",
     "知识库/公司/KOJIMA PRODUCTION.md",
     "知识库/公司/RockStar.md",
-    "知识库/公司/Larian.md",
-    "知识库/公司/Interplay.md",
-    "知识库/公司/CAPCOM.md",
-    "知识库/公司/Bethesda.md",
-    "知识库/公司/公司.md",
-    "知识库/创作者/Simon Stålenhag.md",
-    "知识库/创作者/创作者.md",
-    "知识库/Gitlab 用户信息.md",
-    "知识库/Github Token.md",
-    "游戏创意/完整/Mist Castle/剧本/实验记录.md",
     "游戏创意/完整/调查深入",
     "Archive/自媒体内容/视频选题",
     "Archive/自媒体内容/周报",
