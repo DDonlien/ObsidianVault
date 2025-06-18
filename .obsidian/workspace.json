@@ -23,12 +23,24 @@
             "id": "ab13239075a625e5",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "游戏创意/完整/Mist Castle/设定/世界"
+                "file": "游戏创意/完整/ATION/行动块/规则/修饰.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "世界"
+              "title": "修饰"
             }
           },
           {
@@ -98,7 +110,7 @@
             }
           },
           {
-            "id": "eca352f9e4b93ac0",
+            "id": "aedca446f35a1944",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -223,11 +235,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "eca352f9e4b93ac0",
+  "active": "ab13239075a625e5",
   "lastOpenFiles": [
+    "游戏创意/完整/ATION/ATION.md",
+    "游戏创意/完整/Dive Up/设计/故事/设定/科技/科技.md",
+    "游戏创意/完整/调查深入/调查深入.md",
+    "游戏创意/完整/Mist Castle/设定/阵营/阵营.md",
+    "游戏创意/完整/Mist Castle/设定/角色/角色.md",
+    "游戏创意/完整/Mist Castle/设定/角色/东方的魔法师.md",
     "游戏创意/完整/Mist Castle/设定/世界/世界.md",
     "游戏创意/完整/Mist Castle/设定/设定.md",
-    "游戏创意/完整/Dive Up/设计/故事/设定/科技/科技.md",
     "游戏创意/完整/Mist Castle/剧本/实验记录.md",
     "游戏创意/完整/Mist Castle/剧本/奇迹的孤儿.md",
     "游戏创意/完整/Mist Castle/剧情/Chapter 2：交界的阴影.md",
@@ -246,11 +263,6 @@
     "游戏创意/完整/Dive Up/设计/美术/VFX/风格.md",
     "游戏创意/完整/Dive Up/设计/美术/VFX/边界定义.md",
     "游戏创意/完整/Dive Up/设计/美术/VFX/Image/Image.md",
-    "游戏创意/完整/Dive Up/设计/美术/VFX/VFX.md",
-    "游戏创意/完整/Dive Up/设计/美术/美术.md",
-    "知识库/Prompt.md",
-    "知识库/公司/KOJIMA PRODUCTION.md",
-    "知识库/公司/RockStar.md",
     "游戏创意/完整/调查深入",
     "Archive/自媒体内容/视频选题",
     "Archive/自媒体内容/周报",
