@@ -15,8 +15,8 @@
               "state": {
                 "path": "游戏创意/完整/Dive Up/设计/故事/设定/科技"
               },
-              "icon": "lucide-file",
-              "title": "科技"
+              "icon": "lucide-ghost",
+              "title": "mk-space"
             }
           },
           {
@@ -110,7 +110,7 @@
             }
           },
           {
-            "id": "2df79fc586a7dab3",
+            "id": "c3e841301a415099",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -198,8 +198,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           },
           {
@@ -208,8 +208,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           }
         ],
@@ -231,8 +231,8 @@
       "markdown-importer:打开 Markdown 格式转换器": false,
       "zk-prefixer:创建时间戳笔记": false,
       "bases:创建新数据库": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false,
       "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
