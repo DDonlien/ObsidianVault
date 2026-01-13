@@ -1,1 +1,8 @@
-{}
+{
+  "userIgnoreFilters": [
+    "/**/*.png",
+    "/**/*.jpeg",
+    "/**/*.jpg",
+    "**/*.png"
+  ]
+}
