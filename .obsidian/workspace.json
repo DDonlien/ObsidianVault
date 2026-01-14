@@ -110,7 +110,7 @@
             }
           },
           {
-            "id": "d655a0528bb621f4",
+            "id": "987269f56e471c15",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -222,6 +222,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:新建数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -230,7 +231,6 @@
       "command-palette:打开命令面板": false,
       "markdown-importer:打开 Markdown 格式转换器": false,
       "zk-prefixer:创建时间戳笔记": false,
-      "bases:创建新数据库": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false
