@@ -16,26 +16,8 @@
               "icon": "lucide-git-fork",
               "title": "关系图谱"
             }
-          },
-          {
-            "id": "fc1b3d704618ea8e",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "未命名.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "未命名"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -191,13 +173,14 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "audio-recorder:开始/结束录音": false
     }
   },
-  "active": "fc1b3d704618ea8e",
+  "active": "81ab9ab9080f3ce3",
   "lastOpenFiles": [
-    "未命名.base",
     "未命名.canvas",
+    "未命名.base",
     "99_归档/玩法废案/敌人列表.md",
     "测试表格.md",
     "99_归档/旧文件归档/~$老技能和Buld.xlsx",

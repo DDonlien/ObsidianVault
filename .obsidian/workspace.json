@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bb98973169500b1a",
-            "type": "leaf",
-            "state": {
-              "type": "mk-space",
-              "state": {
-                "path": "游戏创意/完整/Dive Up/设计/故事/设定/科技"
-              },
-              "icon": "lucide-ghost",
-              "title": "mk-space"
-            }
-          },
-          {
-            "id": "ab13239075a625e5",
+            "id": "c35252fe7b2c993e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "游戏创意/完整/ATION/行动块/规则/修饰.md",
+                "file": "游戏创意/完整/二重证言.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -40,23 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "修饰"
-            }
-          },
-          {
-            "id": "c35252fe7b2c993e",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.7"
+              "title": "二重证言"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,21 +81,10 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
-            }
-          },
-          {
-            "id": "987269f56e471c15",
-            "type": "leaf",
-            "state": {
-              "type": "mk-path-view",
-              "state": {},
-              "icon": "layout-grid",
-              "title": "Navigator"
+              "title": "搜索"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -193,27 +157,21 @@
             }
           },
           {
-            "id": "91fcd51908231f89",
+            "id": "04ac08ccaea659f5",
             "type": "leaf",
             "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-view"
-            }
-          },
-          {
-            "id": "aa1333c27a3dbe22",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "calendar"
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -230,41 +188,39 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "markdown-importer:打开 Markdown 格式转换器": false,
-      "zk-prefixer:创建时间戳笔记": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "zk-prefixer:创建时间戳笔记": false
     }
   },
-  "active": "ac131cef62963c98",
+  "active": "c35252fe7b2c993e",
   "lastOpenFiles": [
+    "游戏创意/完整/未命名.md",
+    "游戏创意/完整/二重证言.md",
+    "游戏创意/游戏创意.md",
+    "游戏创意/新鲜李四.md",
+    "Clippings/不同游戏类型的市场生存空间以其他趋势——基于Steam评论数的分析 - 奶牛关.md",
+    "游戏创意/完整/完整.md",
+    "游戏创意/草稿/ATION/行动块/规则/修饰.md",
+    "2026-01-14.md",
+    "202601141837.md",
     "项目文档/跃入迷城 - GDD/images",
     "项目文档/跃入迷城 - GDD",
     "项目文档/文档结构调整建议.md",
     "项目文档/跃入迷城/文档结构调整建议.md",
-    "游戏创意/完整/ATION/ATION.md",
+    "游戏创意/草稿/ATION/ATION.md",
     "游戏创意/完整/Dive Up/设计/故事/设定/科技/科技.md",
     "游戏创意/完整/调查深入/调查深入.md",
-    "游戏创意/完整/Mist Castle/设定/阵营/阵营.md",
-    "游戏创意/完整/Mist Castle/设定/角色/角色.md",
-    "游戏创意/完整/Mist Castle/设定/角色/东方的魔法师.md",
-    "游戏创意/完整/Mist Castle/设定/世界/世界.md",
-    "游戏创意/完整/Mist Castle/设定/设定.md",
-    "游戏创意/完整/Mist Castle/剧本/实验记录.md",
-    "游戏创意/完整/Mist Castle/剧本/奇迹的孤儿.md",
-    "游戏创意/完整/Mist Castle/剧情/Chapter 2：交界的阴影.md",
-    "游戏创意/完整/Mist Castle/剧情/Chapter 1：迷雾中的回响.md",
-    "游戏创意/完整/Mist Castle/剧情/Chapter 0：奇迹的孤儿.md",
-    "游戏创意/完整/Mist Castle/剧情/剧情.md",
-    "游戏创意/完整/Mist Castle/剧本/剧本.md",
-    "游戏创意/完整/Dive Up/设计/故事/设定/武器/武器.md",
-    "游戏创意/完整/Dive Up/设计/故事/设定/世界/荒原地区.md",
-    "游戏创意/完整/Dive Up/设计/故事/设定/世界/世界.md",
-    "游戏创意/完整/Dive Up/设计/故事/故事.md",
-    "游戏创意/完整/Dive Up/设计/声音/声音.md",
-    "知识库/硬盘存储计算.md",
-    "游戏创意/完整/Dive Up/Dive Up.md",
-    "游戏创意/完整/完整.md",
+    "游戏创意/草稿/Mist Castle/设定/阵营/阵营.md",
+    "游戏创意/草稿/Mist Castle/设定/角色/角色.md",
+    "游戏创意/草稿/Mist Castle/设定/角色/东方的魔法师.md",
+    "游戏创意/草稿/Mist Castle/设定/世界/世界.md",
+    "游戏创意/草稿/Mist Castle/设定/设定.md",
+    "游戏创意/草稿/Mist Castle/剧本/实验记录.md",
+    "游戏创意/草稿/Mist Castle/剧本/奇迹的孤儿.md",
+    "游戏创意/草稿/Mist Castle/剧情/Chapter 2：交界的阴影.md",
+    "游戏创意/草稿/Mist Castle/剧情/Chapter 1：迷雾中的回响.md",
+    "游戏创意/草稿/Mist Castle/剧情/Chapter 0：奇迹的孤儿.md",
+    "游戏创意/草稿/Mist Castle/剧情/剧情.md",
+    "游戏创意/草稿/Mist Castle/剧本/剧本.md",
     "游戏创意/完整/调查深入",
     "Archive/自媒体内容/视频选题",
     "Archive/自媒体内容/周报",
@@ -275,9 +231,8 @@
     "游戏创意/完整/ATION/行动块/释放/连锁",
     "游戏创意/完整/ATION/行动块/释放/自主",
     "Pasted image 20250122122542.png",
-    "游戏创意/完整/ATION/行动块/规则",
-    "游戏创意/完整/ATION/行动块/属性/次生属性",
-    "游戏创意/完整/ATION/行动块/属性/原生属性",
+    "游戏创意/草稿/ATION/行动块/规则",
+    "游戏创意/草稿/ATION/行动块/属性/次生属性",
     "Pasted Image 20250113114749_497.png",
     "Pasted Image 20250113114302_559.png",
     "游戏创意/完整/Dive Up/设计/美术/VFX/Image/1月3日(5).png",
